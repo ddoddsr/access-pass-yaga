@@ -53,4 +53,5 @@ An item purchased by any team is visible to all teams, although personal informa
 ## Release Plan
 ### Walking Skeleton
 ### User Auth
-Imple
+### Teams & Membership
+### List
